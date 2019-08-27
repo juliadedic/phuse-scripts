@@ -10,6 +10,7 @@ PhUSE Standard Analyses and Code Sharing Working Group.
 
 ## Participants
 
+Julia Dedic
 
 ## Deliverables
 
